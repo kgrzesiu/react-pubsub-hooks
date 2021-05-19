@@ -1,0 +1,27 @@
+{
+  "name": "react-pubsub-hooks",
+  "version": "0.0.1",
+  "description": "Simple pub-sub implementation for React with Hooks using rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgrzesiu/react-pubsub-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "pubsub",
+    "publish",
+    "subscribe",
+    "rxjs"
+  ],
+  "author": "kgrzesiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kgrzesiu/react-pubsub-hooks/issues"
+  },
+  "homepage": "https://github.com/kgrzesiu/react-pubsub-hooks#readme"
+}
